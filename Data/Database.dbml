@@ -1,0 +1,3 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Listened" EntityNamespace="Data.DomainObjects" ContextNamespace="Data.Repository" Class="Database" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=thedanimal\sqlexpress;Initial Catalog=Listened;Integrated Security=True" SettingsObjectName="Data.Properties.Settings" SettingsPropertyName="ListenedConnectionString" Provider="System.Data.SqlClient" />
+</Database>
